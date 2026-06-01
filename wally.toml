@@ -1,0 +1,11 @@
+[package]
+name = "superinstance/luau-recipe"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+license = "MIT"
+authors = ["SuperInstance"]
+
+description = "Crafting recipe system for Roblox games — register, craft, query with biome & skill gates."
+
+[dependencies]

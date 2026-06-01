@@ -1,0 +1,19 @@
+# Wally
+Packages/
+wally.lock
+
+# Rojo
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

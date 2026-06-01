@@ -1,0 +1,9 @@
+{
+  "name": "luau-recipe",
+  "tree": {
+    "$className": "ReplicatedStorage",
+    "src": {
+      "$path": "src"
+    }
+  }
+}
